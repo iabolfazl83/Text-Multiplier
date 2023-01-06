@@ -1,6 +1,6 @@
-@import url(./fonts.css);
 @import url(media-queries.css);
 @import url("../node_modules/animate.css/animate.css");
+@import url(./fonts.css);
 
 * {
     font-family: Dosis, helvetica, arial, sans-serif;
